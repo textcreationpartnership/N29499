@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:039297_0000_10141CCED38E60D0"/>
-            <pb facs="tcp:039297_0001_10141CD23B3A5E68" rendition="simple:additions"/>
+            <pb facs="unknown:039297_0000_10141CCED38E60D0"/>
+            <pb facs="unknown:039297_0001_10141CD23B3A5E68"
+                rendition="simple:additions"/>
             <head>BY HIS EXCELLENCY THE GOVERNOUR.</head>
             <p>WHEREAS it hath been of abſolute Neceſſity, that a certain Number of men ſhould be Impreſſed, for the Service of Their Majeſties, in Defence of this their Province, both at Sea and Land, againſt the common Enemy. And that ſome perſons imployed therein, have paſſed the Bounds of their Duty, and my Order, by putting the ſame in Execution in a violent and diſ<g ref="char:EOLhyphen"/>orderly manner, to the great Grievance of Their Majeſties good Subjects.</p>
             <p>
